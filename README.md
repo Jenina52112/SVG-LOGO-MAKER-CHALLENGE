@@ -1,7 +1,7 @@
 
 # SVG LOGO GENERATOR CHALLENGE    
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Table of Contents
 - [Description](#description)
@@ -22,7 +22,7 @@ To install this application, clone this repository to your local machine, naviga
 ## Usage
 Once installed, you can run the generator by command node index.js to terminal. Follow the prompts and provide necessary details. After successfully answering the questions, a svg file will be generated and can be viewed in a live server.
 
-![alt text](image.png)
+![alt text](image-3.png)
 
 ## Contributing
 Contributors are welcome! If you encountered issues or have any suggestions, open an issue to GitHub.
