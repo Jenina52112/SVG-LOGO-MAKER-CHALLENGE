@@ -25,12 +25,11 @@ inquirer.prompt([
         type: 'input',
         name: 'color',
         message: 'What color is the shape?',
-    }
-    
-   
+    }  
 ])
 .then(answers => {
     let shape;
+    
     if(answers.shape ==="circle")shape = new Circle()
     else if(answers.shape === "triangle")shape = new Triangle()
     else shape = new Square()
