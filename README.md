@@ -1,6 +1,9 @@
 
 # SVG LOGO GENERATOR CHALLENGE    
 
+## Walktrough Video of the application:
+[https://drive.google.com/file/d/1w01i9K4Za1NtSSlHgsi7txAy090_aEK7/view?usp=drive_link](https://drive.google.com/file/d/1w01i9K4Za1NtSSlHgsi7txAy090_aEK7/view?usp=drive_link)
+
 ![alt text](image-2.png)
 
 ## Table of Contents
