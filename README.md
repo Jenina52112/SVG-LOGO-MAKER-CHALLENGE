@@ -1,7 +1,7 @@
 
 # SVG LOGO GENERATOR CHALLENGE    
 
-## [Click to Watch Video Demonstration.](https://drive.google.com/file/d/1w01i9K4Za1NtSSlHgsi7txAy090_aEK7/view)
+## [Click to Watch Video Demonstration.](https://drive.google.com/file/d/1w01i9K4Za1NtSSlHgsi7txAy090_aEK7/view?usp=sharing)
 
 
 ![alt text](image-2.png)
